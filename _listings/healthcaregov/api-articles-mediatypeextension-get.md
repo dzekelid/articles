@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: Healthcare
+  title: Healthcare.gov Get API Articles Media Type Extension
   version: 1.0.0
+  description: Returns pages content.
 host: www.healthcare.gov
 basePath: /
 schemes:
