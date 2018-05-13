@@ -17,8 +17,8 @@ tags:
 - Healthcare
 - Federal Government
 - Federal Government
-created: "2018-03-27"
-modified: "2018-03-27"
+created: "2018-05-12"
+modified: "2018-05-12"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/healthcaregov/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -31,6 +31,8 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/healthcaregov/api-articles-mediatypeextension-get.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/healthcaregov/api-articles-mediatypeextension-get-postman.md
 x-common:
 - type: x-developer
   url: http://www.healthcare.gov/developers
