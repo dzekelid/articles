@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/issuu/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Issuu
-  x-api-slug: issuu
-  description: Millions of readers find and share the magazines, catalogs and publications
-    they love on issuu.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/428-issuu.jpg
-  humanURL: http://issuu.com
-  baseURL: https:///
-  tags: Articles
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/issuu/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: http://issuu.com/

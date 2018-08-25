@@ -12,9 +12,9 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/apis.md
 specificationVersion: "0.14"
 apis:
-- name: News Cred
-  x-api-slug: news-cred
-  description: returns-a-list-of-articles-according-to-the-specified-set-of-parameters-
+- name: News Cred - Topic Articles
+  x-api-slug: topicguidarticles-get
+  description: Returns a list of articles related to the specified topic.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/869-newscred.jpg
   humanURL: http://newscred.com
   baseURL: https://api.newscred.com//
@@ -26,9 +26,9 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/topicguidarticles-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/topicguidarticles-get-openapi.md
-- name: News Cred
-  x-api-slug: news-cred
-  description: returns-a-list-of-articles-according-to-the-specified-set-of-parameters-
+- name: News Cred - Articles
+  x-api-slug: articles-get
+  description: Returns a list of articles according to the specified set of parameters.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/869-newscred.jpg
   humanURL: http://newscred.com
   baseURL: https://api.newscred.com//
@@ -36,17 +36,14 @@ apis:
     LIfeyclessss, SaaS, Enterprise, Technology, API Provider, Profiles, General Data,
     Service API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/topicguidarticles-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/topicguidarticles-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/articles-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/articles-get-openapi.md
-- name: News Cred
-  x-api-slug: news-cred
-  description: returns-a-list-of-articles-according-to-the-specified-set-of-parameters-
+- name: News Cred - Author Articles
+  x-api-slug: authorguidarticles-get
+  description: Returns articles written by the specified author and matching the given
+    query string.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/869-newscred.jpg
   humanURL: http://newscred.com
   baseURL: https://api.newscred.com//
@@ -54,21 +51,13 @@ apis:
     LIfeyclessss, SaaS, Enterprise, Technology, API Provider, Profiles, General Data,
     Service API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/topicguidarticles-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/topicguidarticles-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/articles-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/articles-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/authorguidarticles-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/authorguidarticles-get-openapi.md
-- name: News Cred
-  x-api-slug: news-cred
-  description: returns-a-list-of-articles-according-to-the-specified-set-of-parameters-
+- name: News Cred - Category Articles
+  x-api-slug: categorydashednamearticles-get
+  description: Search for articles within the category specified by dashed name.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/869-newscred.jpg
   humanURL: http://newscred.com
   baseURL: https://api.newscred.com//
@@ -76,25 +65,13 @@ apis:
     LIfeyclessss, SaaS, Enterprise, Technology, API Provider, Profiles, General Data,
     Service API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/topicguidarticles-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/topicguidarticles-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/articles-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/articles-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/authorguidarticles-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/authorguidarticles-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/categorydashednamearticles-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/categorydashednamearticles-get-openapi.md
-- name: News Cred
-  x-api-slug: news-cred
-  description: returns-a-list-of-articles-according-to-the-specified-set-of-parameters-
+- name: News Cred - Source Articles
+  x-api-slug: sourceguidarticles-get
+  description: Returns a list of articles provided by the specified source
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/869-newscred.jpg
   humanURL: http://newscred.com
   baseURL: https://api.newscred.com//
@@ -102,37 +79,10 @@ apis:
     LIfeyclessss, SaaS, Enterprise, Technology, API Provider, Profiles, General Data,
     Service API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/topicguidarticles-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/topicguidarticles-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/articles-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/articles-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/authorguidarticles-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/authorguidarticles-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/categorydashednamearticles-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/categorydashednamearticles-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/sourceguidarticles-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/sourceguidarticles-get-openapi.md
-- name: News Cred
-  x-api-slug: news-cred
-  description: NewsCred is the leading enterprise content marketing company. NewsCred
-    delivers content marketing solutions that drive business results for top brands
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/869-newscred.jpg
-  humanURL: http://newscred.com
-  baseURL: https://api.newscred.com//
-  tags: Articles
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/newscred/openapi.md
 x-common:
 - type: x-api-gallery
   url: http://news.api.api.gallery.streamdata.io
