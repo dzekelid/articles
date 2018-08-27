@@ -7,11 +7,83 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3516-reddi
 x-kinRank: "9"
 x-alexaRank: "6"
 tags: Articles
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/reddit/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Reddit - Get Subreddit Comments Article
+  x-api-slug: rsubredditcommentsarticle-getnbsp
+  description: Get the comment tree for a given Link article.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3516-reddit.jpg
+  humanURL: http://www.reddit.com
+  baseURL: https://www.reddit.com//
+  tags: Social, Social, My API Stack, Links, Stack Network, Stack, Media, internet,
+    Mobile, Technology, SDIO Syndication, General Data, Pedestal, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/reddit/rsubredditcommentsarticle-getnbsp-openapi.md
+- name: Reddit - Get Duplicates Article
+  x-api-slug: duplicatesarticle-getnbsp
+  description: Return a list of other submissions of the same URL
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3516-reddit.jpg
+  humanURL: http://www.reddit.com
+  baseURL: https://www.reddit.com//
+  tags: Social, Social, My API Stack, Links, Stack Network, Stack, Media, internet,
+    Mobile, Technology, SDIO Syndication, General Data, Pedestal, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/reddit/duplicatesarticle-getnbsp-openapi.md
+- name: Reddit - Get Subreddit Comments Article
+  x-api-slug: rsubredditcommentsarticle-getnbsp
+  description: Get the comment tree for a given Link article.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3516-reddit.jpg
+  humanURL: http://www.reddit.com
+  baseURL: https://www.reddit.com//
+  tags: Social, Social, My API Stack, Links, Stack Network, Stack, Media, internet,
+    Mobile, Technology, SDIO Syndication, General Data, Pedestal, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/reddit/rsubredditcommentsarticle-getnbsp-openapi.md
+- name: Reddit - Get Duplicates Article
+  x-api-slug: duplicatesarticle-getnbsp
+  description: Return a list of other submissions of the same URL
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3516-reddit.jpg
+  humanURL: http://www.reddit.com
+  baseURL: https://www.reddit.com//
+  tags: Social, Social, My API Stack, Links, Stack Network, Stack, Media, internet,
+    Mobile, Technology, SDIO Syndication, General Data, Pedestal, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/reddit/duplicatesarticle-getnbsp-openapi.md
+- name: Reddit - Get Duplicates Article
+  x-api-slug: duplicatesarticle-getnbsp
+  description: Return a list of other submissions of the same URL
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3516-reddit.jpg
+  humanURL: http://www.reddit.com
+  baseURL: https://www.reddit.com//
+  tags: Social, Social, My API Stack, Links, Stack Network, Stack, Media, internet,
+    Mobile, Technology, SDIO Syndication, General Data, Pedestal, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/reddit/duplicatesarticle-getnbsp-openapi.md
+- name: Reddit - Get Subreddit Comments Article
+  x-api-slug: rsubredditcommentsarticle-getnbsp
+  description: Get the comment tree for a given Link article.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3516-reddit.jpg
+  humanURL: http://www.reddit.com
+  baseURL: https://www.reddit.com//
+  tags: Social, Social, My API Stack, Links, Stack Network, Stack, Media, internet,
+    Mobile, Technology, SDIO Syndication, General Data, Pedestal, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/reddit/rsubredditcommentsarticle-getnbsp-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://rebilly.api.gallery.streamdata.io

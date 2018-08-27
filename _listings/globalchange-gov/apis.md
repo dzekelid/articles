@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: "0"
 tags: Articles
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/globalchange-gov/apis.md
 specificationVersion: "0.14"
 apis:
@@ -27,6 +27,19 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/globalchange-gov/article-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/globalchange-gov/article-get-openapi.md
+- name: Global Change Information System API - Get a representation of an article.
+  x-api-slug: articlearticle-identifier-get
+  description: Get JSON which represents the structure of an article.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/global-change-gov.png
+  humanURL: http://globalchange.gov/
+  baseURL: https://data.globalchange.gov//
+  tags: Federal Government, Federal Government, Stack Network, API Provider, Profiles,
+    General Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/globalchange-gov/articlearticle-identifier-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/globalchange-gov/articlearticle-identifier-get-openapi.md
 - name: Global Change Information System API - Get a representation of an article.
   x-api-slug: articlearticle-identifier-get
   description: Get JSON which represents the structure of an article.

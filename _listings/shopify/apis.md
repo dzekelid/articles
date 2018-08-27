@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: "0"
 tags: Articles
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/apis.md
 specificationVersion: "0.14"
 apis:
@@ -86,6 +86,26 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles196805774-json-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles196805774-json-get-openapi.md
+- name: Shopify API - Update an article
+  x-api-slug: adminblogs62581763articles196805774-json-put
+  description: Update an article.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png
+  humanURL: https://www.shopify.com/
+  baseURL: https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//
+  tags: Commerce, Commerce, Target, Stack Network, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles196805774-json-put-openapi.md
+- name: Shopify API - Create a new comment for an article
+  x-api-slug: admincomments-json-post
+  description: Create a new comment for an article.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png
+  humanURL: https://www.shopify.com/
+  baseURL: https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//
+  tags: Commerce, Commerce, Target, Stack Network, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/admincomments-json-post-openapi.md
 - name: Shopify API - Delete an article of a blog tags of articles
   x-api-slug: adminblogs62581763articles197247246-json-delete
   description: Delete an article of a blog tags of articles.
@@ -98,6 +118,16 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles197247246-json-delete-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles197247246-json-delete-openapi.md
+- name: Shopify API - Create a new article for a blog
+  x-api-slug: adminblogs62581763articles-json-post
+  description: Create a new article for a blog.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png
+  humanURL: https://www.shopify.com/
+  baseURL: https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//
+  tags: Commerce, Commerce, Target, Stack Network, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles-json-post-openapi.md
 - name: Shopify API - Get a single article by its ID and the ID of the parent blog
   x-api-slug: adminblogs62581763articles196805774-json-get
   description: Get a single article by its id and the id of the parent blog.
@@ -110,6 +140,26 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles196805774-json-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles196805774-json-get-openapi.md
+- name: Shopify API - Update an article
+  x-api-slug: adminblogs62581763articles196805774-json-put
+  description: Update an article.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png
+  humanURL: https://www.shopify.com/
+  baseURL: https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//
+  tags: Commerce, Commerce, Target, Stack Network, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles196805774-json-put-openapi.md
+- name: Shopify API - Create a new comment for an article
+  x-api-slug: admincomments-json-post
+  description: Create a new comment for an article.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png
+  humanURL: https://www.shopify.com/
+  baseURL: https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//
+  tags: Commerce, Commerce, Target, Stack Network, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/admincomments-json-post-openapi.md
 - name: Shopify API - Delete an article of a blog tags of articles
   x-api-slug: adminblogs62581763articles197247246-json-delete
   description: Delete an article of a blog tags of articles.
@@ -122,6 +172,114 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles197247246-json-delete-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles197247246-json-delete-openapi.md
+- name: Shopify API - Create a new article for a blog
+  x-api-slug: adminblogs62581763articles-json-post
+  description: Create a new article for a blog.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png
+  humanURL: https://www.shopify.com/
+  baseURL: https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//
+  tags: Commerce, Commerce, Target, Stack Network, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles-json-post-openapi.md
+- name: Shopify API - Create a new comment for an article
+  x-api-slug: admincomments-json-post
+  description: Create a new comment for an article.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png
+  humanURL: https://www.shopify.com/
+  baseURL: https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//
+  tags: Commerce, Commerce, Target, Stack Network, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/admincomments-json-post-openapi.md
+- name: Shopify API - Delete an article of a blog tags of articles
+  x-api-slug: adminblogs62581763articles197247246-json-delete
+  description: Delete an article of a blog tags of articles.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png
+  humanURL: https://www.shopify.com/
+  baseURL: https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//
+  tags: Commerce, Commerce, Target, Stack Network, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles197247246-json-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles197247246-json-delete-openapi.md
+- name: Shopify API - Delete an article of a blog tags of articles
+  x-api-slug: adminblogs62581763articles197247246-json-delete
+  description: Delete an article of a blog tags of articles.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png
+  humanURL: https://www.shopify.com/
+  baseURL: https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//
+  tags: Commerce, Commerce, Target, Stack Network, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles197247246-json-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles197247246-json-delete-openapi.md
+- name: Shopify API - Update an article
+  x-api-slug: adminblogs62581763articles196805774-json-put
+  description: Update an article.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png
+  humanURL: https://www.shopify.com/
+  baseURL: https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//
+  tags: Commerce, Commerce, Target, Stack Network, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles196805774-json-put-openapi.md
+- name: Shopify API - Update an article
+  x-api-slug: adminblogs62581763articles196805774-json-put
+  description: Update an article.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png
+  humanURL: https://www.shopify.com/
+  baseURL: https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//
+  tags: Commerce, Commerce, Target, Stack Network, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles196805774-json-put-openapi.md
+- name: Shopify API - Get a single article by its ID and the ID of the parent blog
+  x-api-slug: adminblogs62581763articles196805774-json-get
+  description: Get a single article by its id and the id of the parent blog.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png
+  humanURL: https://www.shopify.com/
+  baseURL: https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//
+  tags: Commerce, Commerce, Target, Stack Network, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles196805774-json-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles196805774-json-get-openapi.md
+- name: Shopify API - Get a single article by its ID and the ID of the parent blog
+  x-api-slug: adminblogs62581763articles196805774-json-get
+  description: Get a single article by its id and the id of the parent blog.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png
+  humanURL: https://www.shopify.com/
+  baseURL: https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//
+  tags: Commerce, Commerce, Target, Stack Network, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles196805774-json-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles196805774-json-get-openapi.md
+- name: Shopify API - Create a new article for a blog
+  x-api-slug: adminblogs62581763articles-json-post
+  description: Create a new article for a blog.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png
+  humanURL: https://www.shopify.com/
+  baseURL: https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//
+  tags: Commerce, Commerce, Target, Stack Network, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles-json-post-openapi.md
+- name: Shopify API - Create a new article for a blog
+  x-api-slug: adminblogs62581763articles-json-post
+  description: Create a new article for a blog.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png
+  humanURL: https://www.shopify.com/
+  baseURL: https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//
+  tags: Commerce, Commerce, Target, Stack Network, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/shopify/adminblogs62581763articles-json-post-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://ship.station.api.gallery.streamdata.io

@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kent
 x-kinRank: "7"
 x-alexaRank: "369033"
 tags: Articles
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/kentico-cloud/apis.md
 specificationVersion: "0.14"
 apis:
@@ -26,6 +26,36 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/kentico-cloud/975bf280fd91488c994c2f04416e5ee3items-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/kentico-cloud/975bf280fd91488c994c2f04416e5ee3items-get-openapi.md
+- name: Kentico Cloud - Previewing an article
+  x-api-slug: which-brewing-fits-you--get
+  description: |-
+    Preview a specific content item.
+
+    See <https://developer.kenticocloud.com/docs/preview-content-via-api> for details.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kenticocloud-com.jpg
+  humanURL: https://kenticocloud.com/
+  baseURL: https://deliver.kenticocloud.com//
+  tags: SaaS, Technology, Enterprise, Relative Data, Service API, Cloud
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/kentico-cloud/which-brewing-fits-you--get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/kentico-cloud/which-brewing-fits-you--get-openapi.md
+- name: Kentico Cloud - Previewing an article
+  x-api-slug: which-brewing-fits-you--get
+  description: |-
+    Preview a specific content item.
+
+    See <https://developer.kenticocloud.com/docs/preview-content-via-api> for details.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kenticocloud-com.jpg
+  humanURL: https://kenticocloud.com/
+  baseURL: https://deliver.kenticocloud.com//
+  tags: SaaS, Technology, Enterprise, Relative Data, Service API, Cloud
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/kentico-cloud/which-brewing-fits-you--get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/articles/master/_listings/kentico-cloud/which-brewing-fits-you--get-openapi.md
 - name: Kentico Cloud - Previewing an article
   x-api-slug: which-brewing-fits-you--get
   description: |-
